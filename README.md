@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sarthakkasliwal/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sarthakkasliwal/Leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/sarthakkasliwal/Leetcode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/sarthakkasliwal/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sarthakkasliwal/Leetcode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/sarthakkasliwal/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
